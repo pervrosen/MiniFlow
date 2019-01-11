@@ -2,7 +2,9 @@
 ## Udacity - MiniFlow Extra-curriculum Project ##
 
 ## Overview ##
-Create layers and functionality such as backpropagation
+Create Neural Net Layers and functionality such as backpropagation etc.
 
 ## Files ##
 miniflow.py - implementation
+nn.py       - tests of MiniFlow
+test.py     - the Boston House Prices example tested on MiniFlow
